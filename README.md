@@ -5,7 +5,7 @@ Repository for learning for R
 
 # Startup files
 
-## To set permenantly set a default directory add setwd("path/to/directory") in !/.Rprofile
+## To set permenantly set a default directory add setwd("path/to/directory") in ~/.Rprofile
 
 1. vi ~/.Rprofile
 2. Change to append mode by typing a
